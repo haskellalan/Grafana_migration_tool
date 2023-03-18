@@ -7,3 +7,13 @@ It allows users to easily transfer dashboard configurations and settings, includ
 
 This can be useful for organizations that are upgrading their Grafana installations, moving to a new server, or simply trying to replicate dashboards across multiple instances. 
 
+Only requires Python to run.
+
+
+##################################################################################################################################################
+
+Esta herramienta está diseñada para migrar paneles de Grafana desde una instancia de origen a una instancia de destino. Permite a los usuarios transferir fácilmente configuraciones de paneles y ajustes, incluyendo fuentes de datos, paneles y visualizaciones, de un Grafana a otro.
+
+Especialmente útil para organizaciones que estén actualizando sus instalaciones de Grafana, moviéndose a un nuevo servidor, o simplemente tratando de replicar paneles en múltiples instancias.
+
+La herramienta solo requiere Python para ejecutarse.
